@@ -1,0 +1,57 @@
+* {
+	padding: 0;
+	margin:	0;	
+	font-family: sans-serif;
+}
+
+body {
+	background: url() no-repeat;
+	backhround-size: cover;
+	color:darkgreen 
+}
+
+.Survey-form {
+	position:absolute;
+	top: 100%;
+	Left: 30%;
+	transform:translate(-100%, 7%);
+	width: 350px;
+	}
+
+.Survey-form h1 {
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 40px 0;
+}
+
+.Survey-form p {
+	font-size: 20px;
+	margin:10px 0;
+}
+
+.Survey-form Input {
+	font-size: 16px;
+	padding: 15px 10px;
+	width: 100%;
+	border: 0;
+	border-radius: 5px;
+	outline: none;
+}
+
+.Survey-form button {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px 0;
+	width: 50%;
+	border: 0;
+	border-radius: 5px;
+	background-color:darkseagreen;
+}
+
+.Survery-form button:hover {
+	color:black
+}
+
+	
+	
